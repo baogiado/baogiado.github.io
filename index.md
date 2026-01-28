@@ -29,7 +29,7 @@ Feel free to reach out! I enjoy connecting and discussing ideas across a wide ra
 * **(2024.05)**: One paper accepted at **Pacific-Asia Conference on Information Systems (PACIS)**! ["The Impacts of Layoffs Announcement on Cybersecurity Breaches"](https://aisel.aisnet.org/pacis2024/track07_secprivacy/track07_secprivacy/10/) 
 
 ### **2023**
-* **(2023.11)**: One paper accepted at **Bright Internet Global Symposium (BIGS), Pre-International Conference on Information Systems (ICIS) **! ["My Data Matters: Examining Public Sentiments and Reactions Facing Data Breach Incidents"](https://brightinternet.org/bigs2023/program/) 
+* **(2023.11)**: One paper accepted at **Bright Internet Global Symposium (BIGS), Pre-International Conference on Information Systems (ICIS)**! ["My Data Matters: Examining Public Sentiments and Reactions Facing Data Breach Incidents"](https://brightinternet.org/bigs2023/program/) 
 
 ### **2022**
 * **(2022.10)**: One paper accepted at **The 9th NAFOSTED Conference on Information and Computer Science (NICS)**! ["A Multi-scale Approach for Vietnamese Image Captioning in Healthcare Domain"](https://ieeexplore.ieee.org/document/10013398) 
